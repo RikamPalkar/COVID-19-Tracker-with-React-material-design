@@ -2,7 +2,7 @@
   "name": "covid19tracker",
   "version": "0.1.0",
   "private": true,
-   "homepage": "http://rikampalkar.github.io/covid19Tracker",
+   "homepage": "http://RikamPalkar.github.io/COVID-19-Tracker",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^4.2.4",
